@@ -1,2 +1,2 @@
-# is-aync-function
-to check if a function is an aync-function
+# is-async-function
+to check if a function is an async-function
