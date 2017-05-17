@@ -18,6 +18,7 @@ let asyncFunctionName = asyncFunction.constructor.name;
 let protoStr = toStrFn.call(asyncFunction);
 
 let isAsyncFunction = function (obj) {
+    if (typeof obj !== 'function') return false;
     return obj.constructor
         && obj.constructor.name === asyncFunctionName
         && toStrFn.call(obj) === protoStr
