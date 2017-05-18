@@ -1,7 +1,7 @@
 {
   "name": "is-es7-async-function",
-  "version": "1.0.0",
-  "description": "to check if a function is an async-function",
+  "version": "1.0.1",
+  "description": "to check if a function is an es7 async-function",
   "main": "index.js",
   "scripts": {
     "test": "node ./node_modules/mocha/bin/mocha test.js"
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/vkyin/is-es7-async-function.git"
   },
   "author": "vkyin",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/vkyin/is-es7-async-function/issues"
   },
