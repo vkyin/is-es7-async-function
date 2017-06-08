@@ -4,10 +4,10 @@
 
 ## badges
 [![npm](https://img.shields.io/npm/v/is-es7-async-function.svg)]()
-[![Build Status](https://travis-ci.org/vkyin/is-async-function.svg?branch=master)](https://travis-ci.org/vkyin/is-async-function)
+[![Build Status](https://travis-ci.org/vkyin/is-es7-async-function.svg?branch=master)](https://travis-ci.org/vkyin/is-es7-async-function)
 [![npm](https://img.shields.io/npm/dt/is-es7-async-function.svg)]()
 [![npm](https://img.shields.io/npm/l/is-es7-async-function.svg)]()
-[![vkyin.cn](https://img.shields.io/badge/website-vkyin.cn-blue.svg)](http://vkyin.cn/)
+[![vkyin.cn](https://img.shields.io/badge/website-vkyin.cn-blue.svg)]()
 
 ## Installation
 
